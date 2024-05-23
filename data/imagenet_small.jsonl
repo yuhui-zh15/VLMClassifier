@@ -1,0 +1,10 @@
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10026.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 0, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10027.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 1, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10029.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 2, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10040.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 3, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10042.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 4, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10043.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 5, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10048.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 6, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10066.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 7, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_10074.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 8, "split": "train"}
+{"image": "./data/ImageNet/imagenet/train/n01440764/n01440764_1009.JPEG", "label": "tench", "label_idx": 0, "imagenet_label": "n01440764", "idx": 9, "split": "train"}
