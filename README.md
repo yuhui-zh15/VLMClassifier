@@ -38,7 +38,7 @@ Dataset is available at [here](./data/imagewikiqa.jsonl).
 If you use this repo in your research, please cite it as follows:
 ```
 @article{VLMClassifier,
-  title={Describing Differences in Image Sets with Natural Language},
+  title={Why are Visually-Grounded Language Models Bad at Image Classification?},
   author={Zhang, Yuhui and Unell, Alyssa and Wang, Xiaohan and Ghosh, Dhruba and Su, Yuchang and Schmidt, Ludwig and Yeung-Levy, Serena},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2024}
