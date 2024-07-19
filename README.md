@@ -25,7 +25,7 @@ Please install the required packages:
 Please look at script files in each folder to reproduce the results in the paper:
 
 - Section 2 (VLMs are Bad at Image Classification): [main_results](./main_results/)
-- Section 3 (Why are VLMs Bad Image Classifiers): [inference_analysis](./inference_analysis/), [feature_analysis](./feature_analysis/), [data_analysis](./data_analysis/), [training_analysis](./training_analysis/) (<span style="color:red;">we provide trained model checkpoints [here](https://drive.google.com/drive/folders/18KduIFfcEOwWy-qgU4imQE_0xxUPjro9?usp=sharing)</span>)
+- Section 3 (Why are VLMs Bad Image Classifiers): [inference_analysis](./inference_analysis/), [feature_analysis](./feature_analysis/), [data_analysis](./data_analysis/), [training_analysis](./training_analysis/) (**⚠️ we provide trained model checkpoints [here](https://drive.google.com/drive/folders/18KduIFfcEOwWy-qgU4imQE_0xxUPjro9?usp=sharing)**)
 - Section 4 (Improving VLM with Classification Data): [imagewikiqa](./imagewikiqa/)
 
 
