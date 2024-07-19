@@ -31,7 +31,7 @@ Please look at script files in each folder to reproduce the results in the paper
 
 ### 💎 Dataset: ImageWikiQA
 
-Dataset is available at [here](./data/imagewikiqa.jsonl).
+Dataset is available at [here](./data/imagewikiqa.jsonl). Corresponding images can be downloaded [here](https://drive.google.com/drive/folders/18KduIFfcEOwWy-qgU4imQE_0xxUPjro9?usp=sharing).
 
 ## 🎯 Citation
 
