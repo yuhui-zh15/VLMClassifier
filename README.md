@@ -5,7 +5,7 @@
 [![Pytorch](https://img.shields.io/badge/Pytorch-2.1-red.svg)](https://pytorch.org/get-started/previous-versions/#v21)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-This repo provides the PyTorch source code of our paper: [Why are Visually-Grounded Language Models Bad at Image Classification?](https://arxiv.org/abs/2405.18415). Check out project page [here](https://yuhui-zh15.github.io/VLMClassifier-Website/)!
+This repo provides the PyTorch source code of our paper: [Why are Visually-Grounded Language Models Bad at Image Classification?](https://arxiv.org/abs/2405.18415) (NeurIPS 2024). Check out project page [here](https://yuhui-zh15.github.io/VLMClassifier-Website/)!
 
 ## 🔮 Abstract
 
@@ -40,7 +40,7 @@ If you use this repo in your research, please cite it as follows:
 @article{VLMClassifier,
   title={Why are Visually-Grounded Language Models Bad at Image Classification?},
   author={Zhang, Yuhui and Unell, Alyssa and Wang, Xiaohan and Ghosh, Dhruba and Su, Yuchang and Schmidt, Ludwig and Yeung-Levy, Serena},
-  journal={arXiv preprint arXiv:2405.18415},
+  journal={Conference on Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
 ```
